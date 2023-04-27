@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ma_Rail_Fence", "Ma_Rail_Fence.pyproj", "{E81DB3D7-6672-4C48-AE5C-9FC16F6CAA98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E81DB3D7-6672-4C48-AE5C-9FC16F6CAA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81DB3D7-6672-4C48-AE5C-9FC16F6CAA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72C67FA0-D51E-4C0B-97ED-57BE21D3EB8D}
+	EndGlobalSection
+EndGlobal
